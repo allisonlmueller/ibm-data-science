@@ -1,4 +1,29 @@
 # ibm-data-science
-Hands-on Lab: Create your Jupyter Notebook
+## Projects from the IBM Data Science Certificate
+Course projects for learning and practicing data science skills.
 
-Final project for Course 2 of IBM's Data Science Certificate on Coursera.
+### Data Visualization
+Skills:
+* Plotting with pandas (.plot())
+* Seaborn
+* Matplotlib
+
+### Housing Prices Modeling Project
+Skills:
+* Data wrangling
+* EDA
+* Linear regression modeling
+* Model evaluation
+* Ridge Regression
+
+### ML Models Project
+Skills:
+* Decision tree
+* Logistic regression
+* K Nearest Neighbor
+* SVM
+* Model evaluation
+
+### Webscraping
+Skills:
+* Webscraping
